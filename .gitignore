@@ -1,0 +1,21 @@
+﻿# Root gitignore for Monorepo (Go Backend + React Frontend)
+
+# Frontend dependencies and builds
+**/node_modules/
+**/dist/
+**/dist-ssr/
+frontend/*.local
+
+# Backend environment variables
+backend-go/.env
+
+# Editor & System files
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
