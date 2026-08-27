@@ -23,7 +23,7 @@ go-project/
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 ### Backend (Go)
 
@@ -113,7 +113,7 @@ Aplikasi React Anda akan berjalan di `http://localhost:5173` (port default Vite)
 
 ---
 
-## 🔌 API Endpoints
+## API Endpoints
 
 Semua endpoint backend diawali dengan prefix `/api`.
 
